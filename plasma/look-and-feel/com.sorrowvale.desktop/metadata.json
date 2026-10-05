@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "SorrowVale"
+            }
+        ],
+        "Category": "",
+        "Description": "A dark gothic Plasma experience inspired by SorrowVale",
+        "Description[es]": "Una experiencia oscura y gótica de Plasma inspirada en SorrowVale",
+        "Id": "com.sorrowvale.desktop",
+        "License": "GPLv2+",
+        "Name": "SorrowVale",
+        "Name[es]": "SorrowVale"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;SorrowVale;Dark;Gothic;",
+    "Keywords[es]": "Escritorio;Espacio de trabajo;Apariencia;Aspecto visual;SorrowVale;Oscuro;Gótico;",
+    "X-Plasma-APIVersion": "2"
+}

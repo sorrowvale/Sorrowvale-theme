@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=SorrowVale HUDs
+Comment=Start the SorrowVale dual-monitor system HUD
+Exec=@HOME@/.config/conky/start-sorrowvale.sh
+Terminal=false
+X-KDE-autostart-after=panel
+X-KDE-StartupNotify=false
